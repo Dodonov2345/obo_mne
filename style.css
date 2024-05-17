@@ -1,0 +1,22 @@
+body {
+    font-family: sans-serif;
+    background-color: #93A3CC;
+    
+}
+
+.proekt {
+    background-color: #93CCBA;
+    width:100%
+}
+header {
+    background-color: #6E1717;
+    width: 100px;
+    height: 40px;
+    font-size: 19px;
+}
+footer {
+    background-color: black;
+}
+.dada {
+    text-align: center;
+}
